@@ -21,7 +21,7 @@ Direct file: [ExamPrep-1.0.0-Windows-Setup.exe](https://github.com/Zeaman/ExamPr
 
 ## Also on the web
 
-The same practice runs in the browser: [ExamPrep web app](https://examprep-web-ecru.vercel.app).
+The same practice runs in the browser: [ExamPrep web app](https://examprep-yomtech.vercel.app).
 
 Privacy policy: [https://zeaman.github.io/examprep-privacy/](https://zeaman.github.io/examprep-privacy/).
 
