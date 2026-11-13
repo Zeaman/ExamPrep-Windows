@@ -25,4 +25,4 @@ The same practice runs in the browser: [ExamPrep web app](https://examprep-web-e
 
 Privacy policy: [https://zeaman.github.io/examprep-privacy/](https://zeaman.github.io/examprep-privacy/).
 
-**Amanuel M. · YomTech**
+**YomTech Solutions (Amanuel Mihiret)**
